@@ -168,14 +168,3 @@ Products: [chongluadao.vn](https://chongluadao.vn) · [tracnghiem.chongluadao.vn
 ![AWS](https://img.shields.io/badge/AWS_Certified_AI_Practitioner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 </div>
-
----
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lengvietcuong&show_icons=true&hide_border=true&theme=transparent&title_color=0A66C2&icon_color=0A66C2&text_color=6b7280" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lengvietcuong&layout=compact&hide_border=true&theme=transparent&title_color=0A66C2&text_color=6b7280" alt="Top languages" />
-
-</div>
