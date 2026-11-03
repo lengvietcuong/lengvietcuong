@@ -74,7 +74,7 @@ Product: [lumist.ai](https://lumist.ai)
 <tr>
 <td width="50%" valign="top">
 
-### 🎙️ [Examinai](https://github.com/lengvietcuong/examinai) ⭐
+### <img src="assets/examinai.svg" height="28" align="absmiddle" /> [Examinai](https://github.com/lengvietcuong/examinai) ⭐
 **AI-powered IELTS Learning Platform**
 
 - Developed a platform for practicing IELTS Speaking and Writing with 1,000+ practice tests and AI examiners, combining LLMs with text-to-speech and speech-to-text models, reaching 100+ users organically.
@@ -88,7 +88,7 @@ Product: [lumist.ai](https://lumist.ai)
 </td>
 <td width="50%" valign="top">
 
-### 🖥️ [InfiniteCompute](https://github.com/lengvietcuong/infinite-compute)
+### <img src="assets/infinitecompute.svg" height="28" align="absmiddle" /> [InfiniteCompute](https://github.com/lengvietcuong/infinite-compute)
 **E-commerce Store for GPUs with AI Advisor**
 
 - Built a complete e-commerce site with order tracking, reviews, coupons, admin dashboard, etc.
@@ -102,8 +102,6 @@ Product: [lumist.ai](https://lumist.ai)
 </td>
 </tr>
 </table>
-
-**More:** [CyberZ](https://github.com/lengvietcuong/CyberZ), [Digital Trust Alliance Gia Lai](https://github.com/lengvietcuong/dta-gialai), [Real or Fake](https://github.com/lengvietcuong/real-or-fake-hcm), [ANTV Video Search](https://github.com/lengvietcuong/antv-video), [Portfolio](https://github.com/lengvietcuong/portfolio)
 
 ---
 
