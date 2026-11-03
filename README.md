@@ -19,23 +19,13 @@ AI engineer and full-stack web developer with 2 years of experience specializing
 
 | 🎓 Education | 🏆 Recognition | 🎤 Speaking | 📍 Based in |
 |:---:|:---:|:---:|:---:|
-| **Valedictorian** at Swinburne University of Technology, Bachelor of Artificial Intelligence<br>**3.917/4 GPA** | **2 national awards**<br>3rd place, Best Developers in Vietnam 2023 hackathon | Featured on **VTV** 4 times<br>Invited to speak at **4 prestigious events** | Ho Chi Minh City, Vietnam 🇻🇳 |
+| <img src="assets/swinburne.svg" height="36" align="absmiddle" /> **Valedictorian** at Swinburne University of Technology, Bachelor of Artificial Intelligence<br>**3.917/4 GPA** | **2 national awards**<br>3rd place, Best Developers in Vietnam 2023 hackathon | Featured on **VTV** 4 times<br>Invited to speak at **4 prestigious events** | Ho Chi Minh City, Vietnam 🇻🇳 |
 
 ---
 
 ## 💼 Professional Experience
 
-### 🛡️ CyPeace · Full-stack Developer & AI Engineer
-`March 2026 – Present` · [tip.cypeace.net](https://tip.cypeace.net)
-
-- Built an enterprise threat intelligence platform for major Vietnamese banks and government agencies, processing terabytes of security signals across 20+ microservices.
-- Architected end-to-end data pipelines with automatic crawling and AI analysis in detecting impersonation websites, social media mentions, leaked credentials, internal documents, source code, and dark web incidents.
-- Developed an AI agent for analysts to investigate across the entire platform's databases, with OSINT tools, on-demand data exports, and executive DOCX/PDF report generation.
-- Implemented strict tenant isolation, role-based access control, and audit logging.
-
-`SolidJS` `TypeScript` `Python` `Go` `PostgreSQL` `ClickHouse` `TimescaleDB` `Redis` `Docker` `GitHub Actions` `Resend`
-
-### 🔍 ChongLuaDao · Tech Lead & AI-Driven Threat Hunter
+### <img src="assets/chongluadao.svg" height="28" align="absmiddle" /> ChongLuaDao – Tech Lead & AI-Driven Threat Hunter
 `Jan 2025 – Present`
 
 - Led a team of 4 to build an AI-powered scam website detector with 300+ daily active users, winning 2 national awards (Nhan tai Dat Viet and Make in Vietnam).
@@ -50,10 +40,22 @@ AI engineer and full-stack web developer with 2 years of experience specializing
 
 `Next.js` `SolidJS` `TypeScript` `Python` `Go` `PostgreSQL` `Redis` `MinIO` `Docker`
 
-Products: [chongluadao.vn](https://chongluadao.vn) · [tracnghiem.chongluadao.vn](https://tracnghiem.chongluadao.vn) · [cyberz.tapchianninhmang.vn](https://cyberz.tapchianninhmang.vn) · [niemtinsogialai.vn](https://niemtinsogialai.vn) · [kynangsohaiphong.vn](https://kynangsohaiphong.vn)
+Products: [chongluadao.vn](https://chongluadao.vn), [tracnghiem.chongluadao.vn](https://tracnghiem.chongluadao.vn), [cyberz.tapchianninhmang.vn](https://cyberz.tapchianninhmang.vn), [niemtinsogialai.vn](https://niemtinsogialai.vn), [kynangsohaiphong.vn](https://kynangsohaiphong.vn)
 
-### 📚 Lumist (SAT Learning Platform) · Full-stack Developer & AI Engineer
-`May – August 2025` · [lumist.ai](https://lumist.ai)
+### <img src="assets/cypeace.png" height="28" align="absmiddle" /> CyPeace – Full-stack Developer & AI Engineer
+`March 2026 – Present`
+
+- Built an enterprise threat intelligence platform for major Vietnamese banks and government agencies, processing terabytes of security signals across 20+ microservices.
+- Architected end-to-end data pipelines with automatic crawling and AI analysis in detecting impersonation websites, social media mentions, leaked credentials, internal documents, source code, and dark web incidents.
+- Developed an AI agent for analysts to investigate across the entire platform's databases, with OSINT tools, on-demand data exports, and executive DOCX/PDF report generation.
+- Implemented strict tenant isolation, role-based access control, and audit logging.
+
+`SolidJS` `TypeScript` `Python` `Go` `PostgreSQL` `ClickHouse` `TimescaleDB` `Redis` `Docker` `GitHub Actions` `Resend`
+
+Product: [tip.cypeace.net](https://tip.cypeace.net)
+
+### <img src="assets/lumist.svg" height="28" align="absmiddle" /> Lumist (SAT Learning Platform) – Full-stack Developer & AI Engineer
+`May – August 2025`
 
 - Built an AI-powered, science-backed vocabulary learning system for 1,000+ users.
 - Integrated LLMs for personalized test performance analysis & question answering.
@@ -61,6 +63,8 @@ Products: [chongluadao.vn](https://chongluadao.vn) · [tracnghiem.chongluadao.vn
 - Resolved a critical performance issue to achieve 5x faster page loads.
 
 `Next.js` `TypeScript` `Supabase` `Vercel AI SDK`
+
+Product: [lumist.ai](https://lumist.ai)
 
 ---
 
@@ -79,7 +83,7 @@ Products: [chongluadao.vn](https://chongluadao.vn) · [tracnghiem.chongluadao.vn
 
 `Next.js` `TypeScript` `Python` `Supabase` `Vercel AI SDK`
 
-[Live](https://examinai.vercel.app) · [Source](https://github.com/lengvietcuong/examinai)
+[Live](https://examinai.vercel.app) | [Source](https://github.com/lengvietcuong/examinai)
 
 </td>
 <td width="50%" valign="top">
@@ -93,13 +97,13 @@ Products: [chongluadao.vn](https://chongluadao.vn) · [tracnghiem.chongluadao.vn
 
 `Vue.js` `Python (FastAPI)` `PostgreSQL (pgvector)` `Docker` `OpenRouter`
 
-[Live](https://infinitecompute.vercel.app) · [Source](https://github.com/lengvietcuong/infinite-compute)
+[Live](https://infinitecompute.vercel.app) | [Source](https://github.com/lengvietcuong/infinite-compute)
 
 </td>
 </tr>
 </table>
 
-**More:** [CyberZ](https://github.com/lengvietcuong/CyberZ) · [Digital Trust Alliance Gia Lai](https://github.com/lengvietcuong/dta-gialai) · [Real or Fake](https://github.com/lengvietcuong/real-or-fake-hcm) · [ANTV Video Search](https://github.com/lengvietcuong/antv-video) · [Portfolio](https://github.com/lengvietcuong/portfolio)
+**More:** [CyberZ](https://github.com/lengvietcuong/CyberZ), [Digital Trust Alliance Gia Lai](https://github.com/lengvietcuong/dta-gialai), [Real or Fake](https://github.com/lengvietcuong/real-or-fake-hcm), [ANTV Video Search](https://github.com/lengvietcuong/antv-video), [Portfolio](https://github.com/lengvietcuong/portfolio)
 
 ---
 
@@ -136,7 +140,7 @@ Products: [chongluadao.vn](https://chongluadao.vn) · [tracnghiem.chongluadao.vn
 
 ## 🎓 Education
 
-**Valedictorian** at Swinburne University of Technology, Bachelor of Artificial Intelligence
+<img src="assets/swinburne.svg" height="36" align="absmiddle" /> **Valedictorian** at Swinburne University of Technology, Bachelor of Artificial Intelligence
 
 - 3.917/4 GPA. Achieved the Best Performance award (highest grade) in 14/25 courses
 - Achieved 1000/1000 on the AWS Certified AI Practitioner exam
