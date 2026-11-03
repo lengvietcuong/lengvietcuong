@@ -13,11 +13,17 @@ I'm an **AI engineer** and **full-stack web developer** with **2 years of experi
 
 ---
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-icons/zap-dark.svg"><img src="assets/section-icons/zap.svg" height="26" align="absmiddle" /></picture> At a Glance
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-icons/wrench-dark.svg"><img src="assets/section-icons/wrench.svg" height="26" align="absmiddle" /></picture> Tech Stack
 
-| Education | Recognition | Speaking | Location |
-|:---:|:---:|:---:|:---:|
-| **Valedictorian** at Swinburne University of Technology, Bachelor of Artificial Intelligence<br>**3.917/4 GPA** | **2 national awards**<br>**3rd place**, [Best Developers in Vietnam 2023](https://www.facebook.com/watch/?v=845546950592773) hackathon | Featured on **VTV** 4 times<br>Invited to speak at **4 prestigious events** | Ho Chi Minh City, Vietnam |
+<div align="center">
+
+<table>
+<tr><td align="center" width="110"><img src="assets/tech/typescript.svg" height="30" alt="TypeScript"><br><sub>TypeScript</sub></td><td align="center" width="110"><img src="assets/tech/python.svg" height="30" alt="Python"><br><sub>Python</sub></td><td align="center" width="110"><img src="assets/tech/postgresql.webp" height="30" alt="PostgreSQL"><br><sub>PostgreSQL</sub></td><td align="center" width="110"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tech/nextjs-dark.svg"><img src="assets/tech/nextjs.svg" height="30" alt="Next.js"></picture><br><sub>Next.js</sub></td><td align="center" width="110"><img src="assets/tech/docker.svg" height="30" alt="Docker"><br><sub>Docker</sub></td><td align="center" width="110"><img src="assets/tech/go.svg" height="30" alt="Go"><br><sub>Go</sub></td></tr>
+<tr><td align="center" width="110"><img src="assets/tech/solidjs.svg" height="30" alt="SolidJS"><br><sub>SolidJS</sub></td><td align="center" width="110"><img src="assets/tech/redis.svg" height="30" alt="Redis"><br><sub>Redis</sub></td><td align="center" width="110"><img src="assets/tech/supabase.svg" height="30" alt="Supabase"><br><sub>Supabase</sub></td><td align="center" width="110"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tech/vercel-ai-sdk-dark.svg"><img src="assets/tech/vercel-ai-sdk.svg" height="30" alt="Vercel AI SDK"></picture><br><sub>Vercel AI SDK</sub></td><td align="center" width="110"><img src="assets/tech/vuejs.svg" height="30" alt="Vue.js"><br><sub>Vue.js</sub></td><td align="center" width="110"><img src="assets/tech/fastapi.svg" height="30" alt="FastAPI"><br><sub>FastAPI</sub></td></tr>
+<tr><td align="center" width="110"><img src="assets/tech/clickhouse.svg" height="30" alt="ClickHouse"><br><sub>ClickHouse</sub></td><td align="center" width="110"><img src="assets/tech/timescale.svg" height="30" alt="TimescaleDB"><br><sub>TimescaleDB</sub></td><td align="center" width="110"><img src="assets/tech/minio.svg" height="30" alt="MinIO"><br><sub>MinIO</sub></td><td align="center" width="110"><img src="assets/tech/githubactions.svg" height="30" alt="GitHub Actions"><br><sub>GitHub Actions</sub></td><td align="center" width="110"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tech/resend-dark.svg"><img src="assets/tech/resend.svg" height="30" alt="Resend"></picture><br><sub>Resend</sub></td><td align="center" width="110"><img src="assets/tech/openrouter.webp" height="30" alt="OpenRouter"><br><sub>OpenRouter</sub></td></tr>
+</table>
+
+</div>
 
 ---
 
@@ -142,17 +148,3 @@ Product: [lumist.ai](https://lumist.ai)
 - Achieved **[1000/1000](https://vcuong.com/images/aws_score.webp)** on the **[AWS Certified AI Practitioner](https://www.credly.com/badges/2453441b-a0cb-4f93-8288-cd338f624c5b)** exam
 - Earned **[25+ certificates](https://www.linkedin.com/in/lengvietcuong/details/certifications/)** in AI & software development from Google, HackerRank, and LinkedIn.
 - Scored **[8.5 on the IELTS](https://vcuong.com/images/ielts_certificate.webp)** exam (C2 English Proficiency).
-
----
-
-## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-icons/wrench-dark.svg"><img src="assets/section-icons/wrench.svg" height="26" align="absmiddle" /></picture> Tech Stack
-
-<div align="center">
-
-<table>
-<tr><td align="center" width="140" height="80"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tech/nextjs-dark.svg"><img src="assets/tech/nextjs.svg" height="40" alt="Next.js"></picture><br><sub><b>Next.js</b></sub></td><td align="center" width="140" height="80"><img src="assets/tech/solidjs.svg" height="40" alt="SolidJS"><br><sub><b>SolidJS</b></sub></td><td align="center" width="140" height="80"><img src="assets/tech/typescript.svg" height="40" alt="TypeScript"><br><sub><b>TypeScript</b></sub></td><td align="center" width="140" height="80"><img src="assets/tech/python.svg" height="40" alt="Python"><br><sub><b>Python</b></sub></td><td align="center" width="140" height="80"><img src="assets/tech/go.svg" height="40" alt="Go"><br><sub><b>Go</b></sub></td><td align="center" width="140" height="80"><img src="assets/tech/vuejs.svg" height="40" alt="Vue.js"><br><sub><b>Vue.js</b></sub></td></tr>
-<tr><td align="center" width="140" height="80"><img src="assets/tech/fastapi.svg" height="40" alt="FastAPI"><br><sub><b>FastAPI</b></sub></td><td align="center" width="140" height="80"><img src="assets/tech/postgresql.webp" height="40" alt="PostgreSQL"><br><sub><b>PostgreSQL</b></sub></td><td align="center" width="140" height="80"><img src="assets/tech/clickhouse.svg" height="40" alt="ClickHouse"><br><sub><b>ClickHouse</b></sub></td><td align="center" width="140" height="80"><img src="assets/tech/timescale.svg" height="40" alt="TimescaleDB"><br><sub><b>TimescaleDB</b></sub></td><td align="center" width="140" height="80"><img src="assets/tech/redis.svg" height="40" alt="Redis"><br><sub><b>Redis</b></sub></td><td align="center" width="140" height="80"><img src="assets/tech/supabase.svg" height="40" alt="Supabase"><br><sub><b>Supabase</b></sub></td></tr>
-<tr><td align="center" width="140" height="80"><img src="assets/tech/minio.svg" height="40" alt="MinIO"><br><sub><b>MinIO</b></sub></td><td align="center" width="140" height="80"><img src="assets/tech/docker.svg" height="40" alt="Docker"><br><sub><b>Docker</b></sub></td><td align="center" width="140" height="80"><img src="assets/tech/githubactions.svg" height="40" alt="GitHub Actions"><br><sub><b>GitHub Actions</b></sub></td><td align="center" width="140" height="80"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tech/vercel-ai-sdk-dark.svg"><img src="assets/tech/vercel-ai-sdk.svg" height="40" alt="Vercel AI SDK"></picture><br><sub><b>Vercel AI SDK</b></sub></td><td align="center" width="140" height="80"><img src="assets/tech/openrouter.webp" height="40" alt="OpenRouter"><br><sub><b>OpenRouter</b></sub></td><td align="center" width="140" height="80"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tech/resend-dark.svg"><img src="assets/tech/resend.svg" height="40" alt="Resend"></picture><br><sub><b>Resend</b></sub></td></tr>
-</table>
-
-</div>
