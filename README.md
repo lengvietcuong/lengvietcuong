@@ -29,8 +29,8 @@ I'm an **AI engineer** and **full-stack web developer** with **2 years of experi
 - Led a team of **4** to build an **AI-powered scam website detector** with **300+ daily active users**, winning **2 national awards** ([Nhan tai Dat Viet](https://chongluadao.vn/posts/hanh-trinh-cua-chong-lua-dao-tai-giai-thuong-nhan-tai-dat-viet) and [Make in Vietnam](https://www.facebook.com/chongluadao.vn/posts/-ch%E1%BB%91ng-l%E1%BB%ABa-%C4%91%E1%BA%A3o-%C4%91%C6%B0%E1%BB%A3c-vinh-danh-t%E1%BA%A1i-di%E1%BB%85n-%C4%91%C3%A0n-make-in-vietnam-2025nh%E1%BB%AFng-ng%C3%A0y-cu%E1%BB%91i-n/1466142792185502/)).
 - Fine-tuned custom AI models on **~700K datapoints** to screen millions of suspicious URLs sent to ChongLuaDao, achieving **99.06% accuracy** and detecting **200K+ malicious sites** in 2 months.
 - Architected an **agentic RAG system** for a scam adviser AI combining vector-based search, keyword search, tool calling, and real-time web search, reaching over **3,000 users**.
-- Built numerous platforms for **government agencies**, including Vietnam Cyber Security Magazine's CyberZ project and Digital Trust Alliance clubs in Gia Lai and Hai Phong.
-- Developed a 'real or fake' game to raise awareness of online scams for **25,000+ players**.
+- Built numerous platforms for **government agencies**, including Vietnam Cyber Security Magazine's [CyberZ](https://cyberz.tapchianninhmang.vn) project and Digital Trust Alliance clubs in [Gia Lai](https://niemtinsogialai.vn) and [Hai Phong](https://kynangsohaiphong.vn).
+- Developed a ['real or fake' game](https://tracnghiem.chongluadao.vn) to raise awareness of online scams for **25,000+ players**.
 - Optimized legacy frontend code to boost Lighthouse performance from **60/100 to 100/100**.
 - Optimized legacy APIs to serve from thousands to **millions of requests per day**.
 - Set up **reCAPTCHA, Cloudflare, and rate limiting** to prevent abuse, and configured **monitoring & automated alerts** for all API endpoints.
@@ -138,10 +138,10 @@ Product: [lumist.ai](https://lumist.ai)
 
 <img src="assets/swinburne.svg" height="36" align="absmiddle" /> **Valedictorian** at Swinburne University of Technology, Bachelor of Artificial Intelligence
 
-- **3.917/4 GPA**. Achieved the **Best Performance award** (highest grade) in **14/25 courses**
-- Achieved **1000/1000** on the **[AWS Certified AI Practitioner](https://www.credly.com/badges/2453441b-a0cb-4f93-8288-cd338f624c5b)** exam
+- **[3.917/4 GPA](https://vcuong.com/pdfs/grades.pdf)**. Achieved the **Best Performance award** (highest grade) in **[14/25 courses](https://www.linkedin.com/in/lengvietcuong/details/education/)**
+- Achieved **[1000/1000](https://vcuong.com/images/aws_score.webp)** on the **[AWS Certified AI Practitioner](https://www.credly.com/badges/2453441b-a0cb-4f93-8288-cd338f624c5b)** exam
 - Earned **[25+ certificates](https://www.linkedin.com/in/lengvietcuong/details/certifications/)** in AI & software development from Google, HackerRank, and LinkedIn.
-- Scored **8.5 on the IELTS** exam (C2 English Proficiency).
+- Scored **[8.5 on the IELTS](https://vcuong.com/images/ielts_certificate.webp)** exam (C2 English Proficiency).
 
 ---
 
