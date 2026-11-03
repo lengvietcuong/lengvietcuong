@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm Cuong 👋
+# LE NGUYEN VIET CUONG
 
-### AI Engineer & Full-Stack Developer
+### AI Engineer & Full-Stack Web Developer
 
-Building agentic AI systems and web platforms that fight online scams, serving tens of thousands of users.
+AI engineer and full-stack web developer with 2 years of experience specializing in agentic RAG systems, Next.js, and Python. Experienced in delivering real-world solutions across cybersecurity, EdTech, and government projects, serving tens of thousands of users.
 
 [![Website](https://img.shields.io/badge/vcuong.com-111827?style=for-the-badge&logo=safari&logoColor=white)](https://vcuong.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lengvietcuong)
@@ -17,79 +17,131 @@ Building agentic AI systems and web platforms that fight online scams, serving t
 
 ## ⚡ At a Glance
 
-| 🎓 Education | 🏆 Recognition | 🎤 Visibility | 📍 Based in |
+| 🎓 Education | 🏆 Recognition | 🎤 Speaking | 📍 Based in |
 |:---:|:---:|:---:|:---:|
-| **Valedictorian**, B.Sc. Artificial Intelligence, Swinburne<br>**3.917 / 4.0 GPA** | **2 national awards**<br>3rd place, Best Developers in Vietnam 2023 | **4× on national TV (VTV)**<br>**4 invited talks** across Asia | Ho Chi Minh City, Vietnam 🇻🇳 |
+| **Valedictorian** at Swinburne University of Technology, Bachelor of Artificial Intelligence<br>**3.917/4 GPA** | **2 national awards**<br>3rd place, Best Developers in Vietnam 2023 hackathon | Featured on **VTV** 4 times<br>Invited to speak at **4 prestigious events** | Ho Chi Minh City, Vietnam 🇻🇳 |
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
 ### 🛡️ CyPeace · Full-stack Developer & AI Engineer
-`Mar 2026 – Present` · [tip.cypeace.net](https://tip.cypeace.net)
+`March 2026 – Present` · [tip.cypeace.net](https://tip.cypeace.net)
 
-An enterprise **threat intelligence platform** for major Vietnamese banks and government agencies, processing terabytes of security signals across 20+ microservices.
+- Built an enterprise threat intelligence platform for major Vietnamese banks and government agencies, processing terabytes of security signals across 20+ microservices.
+- Architected end-to-end data pipelines with automatic crawling and AI analysis in detecting impersonation websites, social media mentions, leaked credentials, internal documents, source code, and dark web incidents.
+- Developed an AI agent for analysts to investigate across the entire platform's databases, with OSINT tools, on-demand data exports, and executive DOCX/PDF report generation.
+- Implemented strict tenant isolation, role-based access control, and audit logging.
 
-- Built end-to-end pipelines that crawl and analyze impersonation sites, social mentions, leaked credentials, internal documents, source code, and dark web incidents
-- Created an **AI analyst agent** with OSINT tools, on-demand data exports, and executive DOCX/PDF report generation
-- Implemented strict tenant isolation, role-based access control, and audit logging
+`SolidJS` `TypeScript` `Python` `Go` `PostgreSQL` `ClickHouse` `TimescaleDB` `Redis` `Docker` `GitHub Actions` `Resend`
 
 ### 🔍 ChongLuaDao · Tech Lead & AI-Driven Threat Hunter
-`Jan 2025 – Present` · [chongluadao.vn](https://chongluadao.vn)
+`Jan 2025 – Present`
 
-Led a team of 4 to build an **AI scam website detector** with 300+ daily users, winning 2 national awards (*Nhan tai Dat Viet*, *Make in Vietnam*).
+- Led a team of 4 to build an AI-powered scam website detector with 300+ daily active users, winning 2 national awards (Nhan tai Dat Viet and Make in Vietnam).
+- Fine-tuned custom AI models on ~700K datapoints to screen millions of suspicious URLs sent to ChongLuaDao, achieving 99.06% accuracy and detecting 200K+ malicious sites in 2 months.
+- Architected an agentic RAG system for a scam adviser AI combining vector-based search, keyword search, tool calling, and real-time web search, reaching over 3,000 users.
+- Built numerous platforms for government agencies, including Vietnam Cyber Security Magazine's CyberZ project and Digital Trust Alliance clubs in Gia Lai and Hai Phong.
+- Developed a 'real or fake' game to raise awareness of online scams for 25,000+ players.
+- Optimized legacy frontend code to boost Lighthouse performance from 60/100 to 100/100.
+- Optimized legacy APIs to serve from thousands to millions of requests per day.
+- Set up reCAPTCHA, Cloudflare, and rate limiting to prevent abuse, and configured monitoring & automated alerts for all API endpoints.
+- Served as the sole technical point of contact for 10+ international partners.
 
-- Fine-tuned models on ~700K datapoints: **99.06% accuracy**, **200K+ malicious sites** detected in 2 months
-- Architected an **agentic RAG** scam adviser (vector + keyword search, tool calling, live web search) used by 3,000+ people
-- Built platforms for government agencies, including Vietnam Cyber Security Magazine's CyberZ and Digital Trust Alliance clubs in Gia Lai and Hai Phong
-- Shipped a "real or fake" awareness game with **25,000+ players**
-- Lighthouse score **60 → 100**; APIs scaled from thousands to **millions of requests per day**
-- Sole technical contact for **10+ international partners**
+`Next.js` `SolidJS` `TypeScript` `Python` `Go` `PostgreSQL` `Redis` `MinIO` `Docker`
 
-### 📚 Lumist · Full-stack Developer & AI Engineer
-`May – Aug 2025` · [lumist.ai](https://lumist.ai)
+Products: [chongluadao.vn](https://chongluadao.vn) · [tracnghiem.chongluadao.vn](https://tracnghiem.chongluadao.vn) · [cyberz.tapchianninhmang.vn](https://cyberz.tapchianninhmang.vn) · [niemtinsogialai.vn](https://niemtinsogialai.vn) · [kynangsohaiphong.vn](https://kynangsohaiphong.vn)
 
-AI-powered, science-backed SAT vocabulary system for 1,000+ learners, with LLM-driven performance analysis, a full admin dashboard, and a **5× page-load speedup**.
+### 📚 Lumist (SAT Learning Platform) · Full-stack Developer & AI Engineer
+`May – August 2025` · [lumist.ai](https://lumist.ai)
+
+- Built an AI-powered, science-backed vocabulary learning system for 1,000+ users.
+- Integrated LLMs for personalized test performance analysis & question answering.
+- Implemented a complete admin dashboard for data analytics, user & content management.
+- Resolved a critical performance issue to achieve 5x faster page loads.
+
+`Next.js` `TypeScript` `Supabase` `Vercel AI SDK`
 
 ---
 
-## 🔬 Research
-
-| Paper | Highlights |
-|---|---|
-| [**Content-Aware Malicious Website Detection Using Multilingual BERT**](https://link.springer.com/article/10.1007/s10791-026-10641-9)<br>*Springer · Q2 journal* | **99.06%** accuracy on 68,954 test samples, beating 4 prior works by up to 8.28%<br>20+ models trained · 689,556-page dataset · HTML-to-Markdown pipeline cutting input length by 96%+ |
-| [**A Novel Spam Review Detection Architecture Using LLMs**](https://science.fpt.edu.vn/FETC/Proceedings#flipbook-proceedingsFlipbook/51/)<br>*FPT International Conference on Emerging Trends in Computing* | **92.12%** accuracy vs 88.54% prior work, **78.86%** F1 vs 73.49%<br>LoRA fine-tuning of PhoBERT and Llama 1B / 8B / 70B on serverless GPUs |
-
----
-
-## 🚀 Featured Projects
+## 🚀 Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🎙️ [Examinai](https://github.com/lengvietcuong/examinai) ⭐
-AI-powered **IELTS** practice platform with 1,000+ tests and AI examiners for Speaking and Writing, using multiple LLM judges, text-to-speech, speech-to-text, and an agentic RAG knowledge base. 100+ organic users.
+**AI-powered IELTS Learning Platform**
+
+- Developed a platform for practicing IELTS Speaking and Writing with 1,000+ practice tests and AI examiners, combining LLMs with text-to-speech and speech-to-text models, reaching 100+ users organically.
+- Architected writing and speaking assessment flows combining multiple LLM judges, with official marking criteria, structured outputs, and response streaming.
+- Built an agentic RAG system with an IELTS knowledge base for accurate question answering.
 
 `Next.js` `TypeScript` `Python` `Supabase` `Vercel AI SDK`
 
-[Live demo](https://examinai.vercel.app) · [Source](https://github.com/lengvietcuong/examinai)
+[Live](https://examinai.vercel.app) · [Source](https://github.com/lengvietcuong/examinai)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🖥️ [InfiniteCompute](https://github.com/lengvietcuong/infinite-compute)
-Full e-commerce store for GPUs with order tracking, reviews, coupons, an admin dashboard, and an **AI advisor** with product database access and live web search.
+**E-commerce Store for GPUs with AI Advisor**
 
-`Vue.js` `FastAPI` `pgvector` `Docker` `OpenRouter`
+- Built a complete e-commerce site with order tracking, reviews, coupons, admin dashboard, etc.
+- Created an AI advisor via agentic RAG with product database access and real-time web search.
+- Dockerized all services to support reproducibility across environments.
 
-[Live demo](https://infinitecompute.vercel.app) · [Source](https://github.com/lengvietcuong/infinite-compute)
+`Vue.js` `Python (FastAPI)` `PostgreSQL (pgvector)` `Docker` `OpenRouter`
+
+[Live](https://infinitecompute.vercel.app) · [Source](https://github.com/lengvietcuong/infinite-compute)
 
 </td>
 </tr>
 </table>
 
-**More of my work:** [CyberZ](https://github.com/lengvietcuong/CyberZ) · [Digital Trust Alliance Gia Lai](https://github.com/lengvietcuong/dta-gialai) · [Real or Fake](https://github.com/lengvietcuong/real-or-fake-hcm) · [ANTV Video Search](https://github.com/lengvietcuong/antv-video) · [Portfolio](https://github.com/lengvietcuong/portfolio)
+**More:** [CyberZ](https://github.com/lengvietcuong/CyberZ) · [Digital Trust Alliance Gia Lai](https://github.com/lengvietcuong/dta-gialai) · [Real or Fake](https://github.com/lengvietcuong/real-or-fake-hcm) · [ANTV Video Search](https://github.com/lengvietcuong/antv-video) · [Portfolio](https://github.com/lengvietcuong/portfolio)
+
+---
+
+## 🔬 Research
+
+### [Content-Aware Malicious Website Detection Using Multilingual BERT](https://link.springer.com/article/10.1007/s10791-026-10641-9)
+*Published in a Q2-ranked journal (Springer)*
+
+- Trained 20+ models across transformers, traditional ML, and hybrid ensembles, reaching 99.06% accuracy on a 68,954-sample test set, surpassing 4 prior works by up to 8.28% in accuracy.
+- Compiled and cleaned a large-scale dataset of 689,556 webpages from four real-world sources.
+- Designed an HTML-to-Markdown preprocessing pipeline to reduce input length by over 96%.
+- Conducted parallel training on a network of cloud-based GPUs, optimizing cost and performance.
+
+### [A Novel Spam Review Detection Architecture Using Large Language Models](https://science.fpt.edu.vn/FETC/Proceedings#flipbook-proceedingsFlipbook/51/)
+*Published at the FPT International Conference on Emerging Trends in Computing*
+
+- Fine-tuned 3 LLMs using LoRA to detect spam reviews on Vietnamese e-commerce platforms.
+- Surpassed prior work in accuracy (92.12% vs. 88.54%) and F1 score (78.86% vs. 73.49%).
+- Analyzed and compared model architectures and sizes in detail (PhoBERT vs Llama 1B, 8B, 70B).
+- Deployed models using serverless GPU inference for scalability and cost-effectiveness.
+
+---
+
+## 🏅 Awards & Recognition
+
+- Featured on Vietnamese National Television (VTV) 4 times to share insights on AI & online scams.
+- Achieved 3rd place in the Best Developers in Vietnam 2023 hackathon.
+- Earned a LeetCode T-shirt for solving 750+ problems.
+- Invited to speak at 4 prestigious events:
+  - Mekong-US Partnership Policy Dialogue on Digital Economy (Bangkok, 2025)
+  - YSEALI Roundtable on Digital Economy (Online, 2025)
+  - Security Bootcamp by the Vietnam Internet Association (Hue, 2025)
+  - FPT International Conference on Emerging Trends in Computing (Can Tho, 2025)
+
+## 🎓 Education
+
+**Valedictorian** at Swinburne University of Technology, Bachelor of Artificial Intelligence
+
+- 3.917/4 GPA. Achieved the Best Performance award (highest grade) in 14/25 courses
+- Achieved 1000/1000 on the AWS Certified AI Practitioner exam
+- Earned 25+ certificates in AI & software development from Google, HackerRank, and LinkedIn.
+- Scored 8.5 on the IELTS exam (C2 English Proficiency).
 
 ---
 
@@ -117,19 +169,6 @@ Full e-commerce store for GPUs with order tracking, reviews, coupons, an admin d
 
 </div>
 
-**Specialties:** agentic RAG · LLM fine-tuning (LoRA) · threat intelligence pipelines · high-traffic API optimization
-
----
-
-## 🏅 Highlights
-
-- 📺 Featured on **Vietnamese National Television (VTV)** 4 times, talking about AI and online scams
-- 🎤 Invited speaker at the **Mekong-US Partnership Policy Dialogue** (Bangkok), **YSEALI Roundtable** on Digital Economy, **Security Bootcamp** by the Vietnam Internet Association (Hue), and **FPT ICETC** (Can Tho), all in 2025
-- ☁️ **1000 / 1000** on the AWS Certified AI Practitioner exam
-- 🎓 Best Performance award (top grade) in **14 of 25** university courses
-- 🗣️ **IELTS 8.5** (C2 proficiency) · 25+ certificates from Google, HackerRank, and LinkedIn
-- 💻 LeetCode **750+ problems** solved, earning the LeetCode T-shirt
-
 ---
 
 <div align="center">
@@ -138,7 +177,5 @@ Full e-commerce store for GPUs with order tracking, reviews, coupons, an admin d
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=lengvietcuong&show_icons=true&hide_border=true&theme=transparent&title_color=0A66C2&icon_color=0A66C2&text_color=6b7280" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lengvietcuong&layout=compact&hide_border=true&theme=transparent&title_color=0A66C2&text_color=6b7280" alt="Top languages" />
-
-<sub>Open to interesting problems in AI, security, and the web. Say hi. 👋</sub>
 
 </div>
