@@ -13,7 +13,7 @@ I'm an **AI engineer** and **full-stack web developer** with **2 years of experi
 
 ---
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/zap-dark.svg"><img src="assets/icons/zap.svg" height="26" align="absmiddle" /></picture> At a Glance
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-icons/zap-dark.svg"><img src="assets/section-icons/zap.svg" height="26" align="absmiddle" /></picture> At a Glance
 
 | Education | Recognition | Speaking | Location |
 |:---:|:---:|:---:|:---:|
@@ -21,7 +21,7 @@ I'm an **AI engineer** and **full-stack web developer** with **2 years of experi
 
 ---
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/briefcase-dark.svg"><img src="assets/icons/briefcase.svg" height="26" align="absmiddle" /></picture> Professional Experience
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-icons/briefcase-dark.svg"><img src="assets/section-icons/briefcase.svg" height="26" align="absmiddle" /></picture> Professional Experience
 
 ### <img src="assets/chongluadao.svg" height="28" align="absmiddle" /> ChongLuaDao – Tech Lead & AI-Driven Threat Hunter
 `Jan 2025 – Present`
@@ -66,7 +66,7 @@ Product: [lumist.ai](https://lumist.ai)
 
 ---
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/rocket-dark.svg"><img src="assets/icons/rocket.svg" height="26" align="absmiddle" /></picture> Projects
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-icons/rocket-dark.svg"><img src="assets/section-icons/rocket.svg" height="26" align="absmiddle" /></picture> Projects
 
 <table>
 <tr>
@@ -103,7 +103,7 @@ Product: [lumist.ai](https://lumist.ai)
 
 ---
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/flask-conical-dark.svg"><img src="assets/icons/flask-conical.svg" height="26" align="absmiddle" /></picture> Research
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-icons/flask-conical-dark.svg"><img src="assets/section-icons/flask-conical.svg" height="26" align="absmiddle" /></picture> Research
 
 ### [Content-Aware Malicious Website Detection Using Multilingual BERT](https://link.springer.com/article/10.1007/s10791-026-10641-9)
 *Published in a **Q2-ranked journal** (Springer)*
@@ -123,7 +123,7 @@ Product: [lumist.ai](https://lumist.ai)
 
 ---
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/award-dark.svg"><img src="assets/icons/award.svg" height="26" align="absmiddle" /></picture> Awards & Recognition
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-icons/award-dark.svg"><img src="assets/section-icons/award.svg" height="26" align="absmiddle" /></picture> Awards & Recognition
 
 - Featured on **Vietnamese National Television (VTV) 4 times** to share insights on AI & online scams.
 - Achieved **3rd place** in the [Best Developers in Vietnam 2023](https://www.facebook.com/watch/?v=845546950592773) hackathon.
@@ -134,7 +134,7 @@ Product: [lumist.ai](https://lumist.ai)
   - [Security Bootcamp by the Vietnam Internet Association](https://www.facebook.com/chongluadao.vn/posts/1364437172356065/) (Hue, 2025)
   - [FPT International Conference on Emerging Trends in Computing](https://science.fpt.edu.vn/FETC/agenda) (Can Tho, 2025)
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/graduation-cap-dark.svg"><img src="assets/icons/graduation-cap.svg" height="26" align="absmiddle" /></picture> Education
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-icons/graduation-cap-dark.svg"><img src="assets/section-icons/graduation-cap.svg" height="26" align="absmiddle" /></picture> Education
 
 <img src="assets/swinburne.svg" height="36" align="absmiddle" /> **Valedictorian** at Swinburne University of Technology, Bachelor of Artificial Intelligence
 
@@ -145,7 +145,7 @@ Product: [lumist.ai](https://lumist.ai)
 
 ---
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/wrench-dark.svg"><img src="assets/icons/wrench.svg" height="26" align="absmiddle" /></picture> Tech Stack
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-icons/wrench-dark.svg"><img src="assets/section-icons/wrench.svg" height="26" align="absmiddle" /></picture> Tech Stack
 
 <div align="center">
 
