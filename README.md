@@ -17,7 +17,7 @@ I'm an **AI engineer** and **full-stack web developer** with **2 years of experi
 
 | Education | Recognition | Speaking | Location |
 |:---:|:---:|:---:|:---:|
-| **Valedictorian** at Swinburne University of Technology, Bachelor of Artificial Intelligence<br>**3.917/4 GPA** | **2 national awards**<br>**3rd place**, Best Developers in Vietnam 2023 hackathon | Featured on **VTV** 4 times<br>Invited to speak at **4 prestigious events** | Ho Chi Minh City, Vietnam |
+| **Valedictorian** at Swinburne University of Technology, Bachelor of Artificial Intelligence<br>**3.917/4 GPA** | **2 national awards**<br>**3rd place**, [Best Developers in Vietnam 2023](https://www.facebook.com/watch/?v=845546950592773) hackathon | Featured on **VTV** 4 times<br>Invited to speak at **4 prestigious events** | Ho Chi Minh City, Vietnam |
 
 ---
 
@@ -26,7 +26,7 @@ I'm an **AI engineer** and **full-stack web developer** with **2 years of experi
 ### <img src="assets/chongluadao.svg" height="28" align="absmiddle" /> ChongLuaDao – Tech Lead & AI-Driven Threat Hunter
 `Jan 2025 – Present`
 
-- Led a team of **4** to build an **AI-powered scam website detector** with **300+ daily active users**, winning **2 national awards** (Nhan tai Dat Viet and Make in Vietnam).
+- Led a team of **4** to build an **AI-powered scam website detector** with **300+ daily active users**, winning **2 national awards** ([Nhan tai Dat Viet](https://chongluadao.vn/posts/hanh-trinh-cua-chong-lua-dao-tai-giai-thuong-nhan-tai-dat-viet) and [Make in Vietnam](https://www.facebook.com/chongluadao.vn/posts/-ch%E1%BB%91ng-l%E1%BB%ABa-%C4%91%E1%BA%A3o-%C4%91%C6%B0%E1%BB%A3c-vinh-danh-t%E1%BA%A1i-di%E1%BB%85n-%C4%91%C3%A0n-make-in-vietnam-2025nh%E1%BB%AFng-ng%C3%A0y-cu%E1%BB%91i-n/1466142792185502/)).
 - Fine-tuned custom AI models on **~700K datapoints** to screen millions of suspicious URLs sent to ChongLuaDao, achieving **99.06% accuracy** and detecting **200K+ malicious sites** in 2 months.
 - Architected an **agentic RAG system** for a scam adviser AI combining vector-based search, keyword search, tool calling, and real-time web search, reaching over **3,000 users**.
 - Built numerous platforms for **government agencies**, including Vietnam Cyber Security Magazine's CyberZ project and Digital Trust Alliance clubs in Gia Lai and Hai Phong.
@@ -126,21 +126,21 @@ Product: [lumist.ai](https://lumist.ai)
 ## <img src="assets/icons/award.svg" height="26" align="absmiddle" /> Awards & Recognition
 
 - Featured on **Vietnamese National Television (VTV) 4 times** to share insights on AI & online scams.
-- Achieved **3rd place** in the Best Developers in Vietnam 2023 hackathon.
-- Earned a **LeetCode T-shirt** for solving **750+ problems**.
+- Achieved **3rd place** in the [Best Developers in Vietnam 2023](https://www.facebook.com/watch/?v=845546950592773) hackathon.
+- Earned a **[LeetCode](https://leetcode.com/u/VietCuong/) T-shirt** for solving **750+ problems**.
 - Invited to speak at **4 prestigious events**:
-  - Mekong-US Partnership Policy Dialogue on Digital Economy (Bangkok, 2025)
+  - [Mekong-US Partnership Policy Dialogue on Digital Economy](https://www.stimson.org/2025/mekong-u-s-partnership-track-1-5-policy-dialogue-on-digital-economy/) (Bangkok, 2025)
   - YSEALI Roundtable on Digital Economy (Online, 2025)
-  - Security Bootcamp by the Vietnam Internet Association (Hue, 2025)
-  - FPT International Conference on Emerging Trends in Computing (Can Tho, 2025)
+  - [Security Bootcamp by the Vietnam Internet Association](https://www.facebook.com/chongluadao.vn/posts/1364437172356065/) (Hue, 2025)
+  - [FPT International Conference on Emerging Trends in Computing](https://science.fpt.edu.vn/FETC/agenda) (Can Tho, 2025)
 
 ## <img src="assets/icons/graduation-cap.svg" height="26" align="absmiddle" /> Education
 
 <img src="assets/swinburne.svg" height="36" align="absmiddle" /> **Valedictorian** at Swinburne University of Technology, Bachelor of Artificial Intelligence
 
 - **3.917/4 GPA**. Achieved the **Best Performance award** (highest grade) in **14/25 courses**
-- Achieved **1000/1000** on the **AWS Certified AI Practitioner** exam
-- Earned **25+ certificates** in AI & software development from Google, HackerRank, and LinkedIn.
+- Achieved **1000/1000** on the **[AWS Certified AI Practitioner](https://www.credly.com/badges/2453441b-a0cb-4f93-8288-cd338f624c5b)** exam
+- Earned **[25+ certificates](https://www.linkedin.com/in/lengvietcuong/details/certifications/)** in AI & software development from Google, HackerRank, and LinkedIn.
 - Scored **8.5 on the IELTS** exam (C2 English Proficiency).
 
 ---
