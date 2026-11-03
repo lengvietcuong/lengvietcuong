@@ -1,6 +1,6 @@
 <div align="center">
 
-# LE NGUYEN VIET CUONG
+# Hi, I'm Cuong 👋
 
 ### AI Engineer & Full-Stack Web Developer
 
